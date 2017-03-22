@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Snackbar"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Snackbar"/>
+        <item
+            android:id="@+id/nav_TextInputLayout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="TextInputLayout"/>
+        <item
+            android:id="@+id/nav_FloatingActionButton"
+            android:icon="@drawable/ic_menu_send"
+            android:title="FloatingActionButton"/>
+        <item
+            android:id="@+id/nav_layout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Layout"/>
+        <item
+            android:id="@+id/nav_intro"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Intro"/>
+    </group>
+
+
+</menu>
